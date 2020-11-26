@@ -1,0 +1,4 @@
+#hide credentials.py
+credentials.py
+#hide pycache folder
+__pycache__
